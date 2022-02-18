@@ -1,0 +1,22 @@
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\bin\Debug\GymSystem.exe.config
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\bin\Debug\GymSystem.exe
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\bin\Debug\GymSystem.pdb
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.AssemblyReference.cache
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.Form1.resources
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.Properties.Resources.resources
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.GenerateResource.cache
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.CoreCompileInputs.cache
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.exe
+C:\Users\AMMAR MEER\source\repos\GymSystem\GymSystem\obj\Debug\GymSystem.pdb
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\bin\Debug\GymSystem.exe.config
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\bin\Debug\GymSystem.exe
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\bin\Debug\GymSystem.pdb
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.AssemblyReference.cache
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\obj\Debug\GymSystem.Form1.resources
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\obj\Debug\GymSystem.Properties.Resources.resources
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.GenerateResource.cache
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.CoreCompileInputs.cache
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\obj\Debug\GymSystem.exe
+C:\Users\AMMAR MEER\Desktop\New folder\GymSystem\GymSystem\obj\Debug\GymSystem.pdb
